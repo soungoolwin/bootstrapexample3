@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.blogo {
+    font-size: 60px;
+    color: blue;
+}
+.footermargin {
+    margin-top: -10px;
+}
